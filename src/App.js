@@ -1,16 +1,13 @@
 import React from 'react';
 import Header from './components/header';
 import "./styles.css";
-import Main from './pages/main';
-import Apps from './pages/main/apss';
-import firebase from 'firebase';
+import Umidade from './pages/main/umidade';
 
 
 const App = () => (
   <div className="App">
     <Header/>
-    {/* <Apps /> */}
-    <Main />
+    <Umidade />
   </div>
 );
 
