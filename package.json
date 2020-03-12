@@ -8,10 +8,14 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "axios": "^0.19.2",
+    "plotly.js-dist": "^1.52.3",
     "re-base": "^4.0.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-scripts": "3.4.0"
+    "react-native": "^0.61.5",
+    "react-native-cli": "^2.0.1",
+    "react-scripts": "3.4.0",
+    "recharts": "^2.0.0-beta.2"
   },
   "scripts": {
     "start": "react-scripts start",

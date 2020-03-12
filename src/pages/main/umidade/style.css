@@ -21,3 +21,15 @@ h1#text_temp{
     justify-content: center;
     align-items: center;
 }
+
+h1#text_data{
+    width: 100%;
+    height: 60px;
+    background: #894508;
+    font-size:18px;
+    font-weight: bold;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
